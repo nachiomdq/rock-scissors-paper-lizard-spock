@@ -1,8 +1,9 @@
-# Test
-Console game
+# Rock Scissors Paper Lizard Spock
+PHP Symfony Console Game
+
 
 ## Install
-Run `composer install` when in the dir to install dependencies.  
+Run `composer install`  in the dir to install dependencies.  
 
 ## Play
 
